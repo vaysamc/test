@@ -1,1 +1,3 @@
-# Hello, world
+# Hello, world!
+
+I studi in Netology
